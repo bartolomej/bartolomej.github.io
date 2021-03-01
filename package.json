@@ -46,7 +46,7 @@
     "react-typography": "^0.16.19",
     "react-useanimations": "1.2.14",
     "terser": "^4.8.0",
-    "three": "^0.118.3",
+    "three": "^0.125.0",
     "typeface-merriweather": "0.0.72",
     "typeface-montserrat": "0.0.75",
     "typography": "^0.16.19"
